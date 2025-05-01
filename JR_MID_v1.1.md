@@ -5,7 +5,7 @@ _Date: 1 May 2025_
 ---
 
 ## Why this Boot-Camp?
-The Island Forge talent pipeline converts English-speaking Caribbean graduates into production-ready engineers for US / UK / Canadian clients inside ten weeks. All curricula align with our seven-tier certification ladder and are benchmarked against Bay-Area coding standards. :contentReference[oaicite:0]{index=0}&#8203;:contentReference[oaicite:1]{index=1}
+The Island Forge talent pipeline converts English-speaking Caribbean graduates into production-ready engineers for US / UK / Canadian clients inside ten weeks. All curricula align with our seven-tier certification ladder and are benchmarked against Bay-Area coding standards.
 
 ### Success Metrics
 - **100 %** GitHub Classroom submission rate  
