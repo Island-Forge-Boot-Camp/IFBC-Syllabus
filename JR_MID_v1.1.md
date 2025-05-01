@@ -54,7 +54,7 @@ The Island Forge talent pipeline converts English-speaking Caribbean graduates i
 - **Passing threshold:** 75 % combined lab score **and** panel approval  
 - Up to **two re-take** opportunities within 30 days  
 - Credly badges issued automatically via GitHub Actions on pass event  
-- Mid-Level graduates become **Staff-track eligible** after six months billable  
+- Mid-Level graduates become **Senior-track eligible** after six months billable  
 
 ---
 
