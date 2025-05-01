@@ -11,7 +11,7 @@ The Island Forge talent pipeline converts English-speaking Caribbean graduates i
 - **100 %** GitHub Classroom submission rate  
 - **≥ 80 %** of the cohort pass the exam on first attempt  
 - Client **NPS ≥ 8.5** after 90 days billable  
-- **≥ 40 %** female / non-binary participation  
+- **≥ 40-50 %** female participation  
 
 ---
 
